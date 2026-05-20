@@ -1,0 +1,9 @@
+[submodule "414-vanlife-api"]
+	path = 414-vanlife-api
+	url = https://github.com/Haroune07/414-vanlife-api.git
+[submodule "414-vanlife-frontend"]
+	path = 414-vanlife-frontend
+	url = https://github.com/Haroune07/414-vanlife-frontend.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/Haroune07/414-vanlife-infrastructure.git
